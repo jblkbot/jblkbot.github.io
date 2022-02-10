@@ -1,1 +1,11 @@
+title: Jason Brown # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Python/Intelligent Automation Engineer
+  <br><br>
+  <a href="mailto:jasondexterbrown@gmail.com">jasondexterbrown@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/jasondexterbrown/">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/jblkbot/jblkbot/">Gihub</a> 
 theme: jekyll-theme-minimal
