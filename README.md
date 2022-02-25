@@ -9,14 +9,18 @@ I am a Python and Intelligent Automation Engineer with an experience of over 5 y
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.jKcBabqpWyKaJBf66w8h7gHaEp%26pid%3DApi&f=1" alt="python" width="auto" height="40"
+   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.jKcBabqpWyKaJBf66w8h7gHaEp%26pid%3DApi&f=1" alt="python" width="auto" height="40"/>
+  
 </p>
 
 ---
-
+##Intelligent Automation Platforms
+<p align='left'>
+   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.oBGmAsVTKQ4N5cbY1_PycAHaHa%26pid%3DApi&f=1" alt="UiPath" width="auto" height="40"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.bGSmh1a1XfYCb0TtmYoONgHaCR%26pid%3DApi&f=1" alt="Robo Corp" width="auto" height="40"/>
+  
 ## Experience
 
 ### **SENIOR FRONTEND DEVELOPER**
