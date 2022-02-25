@@ -17,7 +17,7 @@ I am a Python and Intelligent Automation Engineer with an experience of over 5 y
 
 ---
 
-Intelligent Automation Platforms
+## Skills Intelligent Automation Platforms
 
 <p align='left'>
    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.oBGmAsVTKQ4N5cbY1_PycAHaHa%26pid%3DApi&f=1" alt="UiPath" width="auto" height="40"/>
