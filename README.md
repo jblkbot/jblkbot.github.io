@@ -22,7 +22,8 @@ I am a Python and Intelligent Automation Engineer with an experience of over 5 y
 <p align='left'>
    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.oBGmAsVTKQ4N5cbY1_PycAHaHa%26pid%3DApi&f=1" alt="UiPath" width="auto" height="40"/>
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.bGSmh1a1XfYCb0TtmYoONgHaCR%26pid%3DApi&f=1" alt="Robo Corp" width="auto" height="40"/>
-  
+ </p>
+ 
 ## Experience
 
 ### **SENIOR FRONTEND DEVELOPER**
