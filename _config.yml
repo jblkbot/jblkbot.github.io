@@ -1,11 +1,18 @@
-title: Jason Brown # your name (or website title) here
-logo: "/jason.png?raw=true" # your photo (or logo) here
+title: Jason Brown
+logo: "/jason.png?raw=true" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Python/Intelligent Automation Engineer
-  <br><br>
+  <br></br>
   <a href="mailto:jasondexterbrown@gmail.com">jasondexterbrown@gmail.com </a>
   <br>
   <a href="https://www.linkedin.com/in/jasondexterbrown/">LinkedIn Profile</a>
   <br>
-  <a href="https://github.com/jblkbot/jblkbot/">Github</a> 
+  Python Projects
+  <a href="https://github.com/JdexterBrown/Money_Man-of-Wall-Street.git>MoneyMan Game </a>
+  <br>
+  <a href="https://github.com/JdexterBrown/jason_d_brown_automation_profile.github.io.git>Jason Brown Github Portfolio Site</a>
+  
+  <br>
+  
+   
 theme: jekyll-theme-minimal
