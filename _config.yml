@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <a href="https://www.linkedin.com/in/jasondexterbrown/">LinkedIn Profile</a>
   <br><br>
-  <p>Python Projects
+  <p align=left>Python Projects
     <a href="https://github.com/JdexterBrown/Money_Man-of-Wall-Street.git>MoneyMan Game</a>
   </p>
   <br>
